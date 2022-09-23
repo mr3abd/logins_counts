@@ -17,4 +17,4 @@ logins = { # ugly on purpose
 # Write your solution below. Keep above code intact.
 # contributed by @mr3abd
 
-Student.return_logins_counts(logins, people)
+People.return_logins_counts(logins, people)
